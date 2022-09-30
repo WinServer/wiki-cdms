@@ -114,11 +114,12 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'Fitur Umum', link: '/fiturumum/', activeMatch: '/fiturumum' },
+    
     { text: 'Dokumen Pabean', link: '/documentcustoms/', activeMatch: '/documentcustoms' },
     { text: 'Background Job', link: '/backgroundjob/', activeMatch: '/backgroundjob' },
     { text: 'Laporan Kepabeanan', link: '/klriuip/mengundangvendoriuip/', activeMatch: '/klriuip' },
     { text: 'List Masalah', link: '/legal/tos', activeMatch: '/legal/tos' },
+    { text: 'Dokumen', link: '/document/', activeMatch: '/fiturumum' },
   ]
 }
 
