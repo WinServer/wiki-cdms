@@ -120,6 +120,7 @@ function nav() {
     { text: 'Laporan Kepabeanan', link: '/klriuip/mengundangvendoriuip/', activeMatch: '/klriuip' },
     { text: 'List Masalah', link: '/legal/tos', activeMatch: '/legal/tos' },
     { text: 'Dokumen', link: '/document/', activeMatch: '/fiturumum' },
+    { text: 'Fitur Umum', link: '/fiturumum/', activeMatch: '/fiturumum' }
   ]
 }
 
